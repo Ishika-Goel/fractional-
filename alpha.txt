@@ -1,8 +1,6 @@
 from fractions import Fraction as frac
 print(frac(8, 10))
 print(frac(114, 24))
-<<<<<<< HEAD
 print(frac(24,30))
-=======
 print(frac(10,20))
->>>>>>> features
+
