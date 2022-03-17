@@ -1,3 +1,5 @@
 from fractions import Fraction as frac
+
 print(frac(8, 10))
+
 print(frac(114, 24))
